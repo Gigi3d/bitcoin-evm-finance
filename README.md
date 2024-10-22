@@ -10,4 +10,4 @@ Support for Bitcoin EVM protocols. Allowing users to interact with smart contrac
 
 4 **Custom Networks:** Easily switch between multiple Bitcoin EVM networks.
 
-5 **Secure and Private:** Built with the same security features as the original EVM (Metamask, Trustwallet) and bitcoin wallets
+5 **Secure and Private:** Built with the same and or better security features as the original EVM (Metamask, Myetherwallet) and bitcoin wallets
